@@ -7,6 +7,13 @@ ryan_molecool
 
 A Python package for analyzing and visualizing xyz files. For MolSSI Workshop Python Package development workshop.
 
+
+This repository is currently under development. To do a development install, download this repository and type
+
+`pip install -e.`
+
+in the repository directory.
+
 ### Copyright
 
 Copyright (c) 2021, Ryan
