@@ -16,7 +16,7 @@ dependencies:
 
     # Other
   - numpy
-  - matlpotlib
+  - matplotlib
 
     # Pip-only installs
   #- pip:
