@@ -14,6 +14,11 @@ This repository is currently under development. To do a development install, dow
 
 in the repository directory.
 
+
+This package requires the following:
+     - numpy
+     - matplotlib
+
 ### Copyright
 
 Copyright (c) 2021, Ryan
